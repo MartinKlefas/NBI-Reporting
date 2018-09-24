@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NBI Reporting", "NBI Reporting\NBI Reporting.vbproj", "{004AB5AD-1A38-4452-A50C-649661EF9A5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{004AB5AD-1A38-4452-A50C-649661EF9A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004AB5AD-1A38-4452-A50C-649661EF9A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{004AB5AD-1A38-4452-A50C-649661EF9A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{004AB5AD-1A38-4452-A50C-649661EF9A5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4011793A-ED0D-4DFE-9C96-A2E74B380DE0}
+	EndGlobalSection
+EndGlobal
